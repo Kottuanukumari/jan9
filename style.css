@@ -1,0 +1,72 @@
+img{
+  width:200px;
+  height:200px;
+}
+body{
+  background-image:url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat:no-repeat;
+  background-size:cover;
+.img1{
+  border-radius:40px;
+ }
+.img2{
+  border-radius:50px 30%;
+}
+  .img3{
+  border-radius:10px 50px;
+}
+.img4{
+  border-radius:10px 60px 30px 150px;
+}
+.img5{
+  border-radius:40% 10% 50% 50%;
+}
+.img6{
+  border-radius:10% 40% 60% 70%;
+}
+.img7{
+  border-radius:10% 30% 50% 50%;
+}
+.img1:hover{
+  border-radius:20px;
+  margin-bottom:20px;
+  margin-top:20px;
+  box-shadow:30px 50px red;
+}
+.img2:hover{
+  border-radius:10%;
+  margin-bottom:20px;
+  margin-top:10px;
+  box-shadow:20px 50px green;
+}
+.img3:hover{
+  border-radius:20px 60px;
+  margin-bottom:10% 40% 60%;
+  margin-top:30% 60%;
+}
+.img4:hover{
+  border-radius:40px 60px;
+  margin-bottom:30% 60% 90%;
+  margin-top:10% 40%;
+}
+.img5:hover{
+  border-radius:50px 70px;
+  margin-bottom:10% 40% ;
+  margin-top:30% 60%;
+}
+.img6:hover{
+  border-radius:40px 30px;
+  margin-bottom:10% 30% 90%;
+  margin-top:30% 50%;
+}
+.img7:hover{
+  border-radius:30% 40%;
+  margin-bottom:50% 20%;
+  margin-top:10% 30% 60%
+}
+
+
+
+
+
+
